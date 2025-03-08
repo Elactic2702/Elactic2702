@@ -55,11 +55,8 @@
 
 ## 🐍 Watch the Snake Eat My Contributions!
 <p align="center">
-<img src="https://raw.githubusercontent.com/Elastic2702/Elastic2702/main/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/Elastic2702/Elastic2702/main/github-contribution-grid-snake.svg" />
 </p>
 
-### 🐍 Watch the Snake Eat My Contributions!
-![snake gif](https://raw.githubusercontent.com/Elastic2702/Elastic2702/main/github-contribution-grid-snake.svg)
 
 
