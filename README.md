@@ -57,7 +57,8 @@
 <p align="center">
   <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 ### 🐍 Watch the Snake Eat My Contributions!
-### 🐍 Watch the Snake Eat My Contributions!
-![snake gif](https://github.com/Elactic2702/Elactic2702/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Elastic2702/Elastic2702/main/github-contribution-grid-snake.svg)
+
 
