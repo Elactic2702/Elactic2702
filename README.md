@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hello, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hello, I'm Hetaksh Pandey! 👋</h1>
 <p align="center">A passionate developer with a knack for AI, web, and mobile app development.</p>
 
 ---
