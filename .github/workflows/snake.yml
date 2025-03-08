@@ -16,7 +16,7 @@ jobs:
       - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YourUsername
+          github_user_name: Elactic2702
           outputs: |
             github-contribution-grid-snake.svg
 
