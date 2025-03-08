@@ -59,5 +59,5 @@
 </p>
 ### 🐍 Watch the Snake Eat My Contributions!
 ### 🐍 Watch the Snake Eat My Contributions!
-![snake gif](https://github.com/Elastic2702/Elastic2702/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Elactic2702/Elactic2702/blob/output/github-contribution-grid-snake.svg)
 
